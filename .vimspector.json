@@ -1,0 +1,14 @@
+{
+  "configurations": {
+    "python": {
+      "adapter": "debugpy",
+      "configuration": {
+        "name": "Python",
+        "type": "python",
+        "request": "launch",
+        "program": "${file}",
+        "python": "${workspaceRoot}/venv/bin/python"
+      }
+    }
+  }
+}
